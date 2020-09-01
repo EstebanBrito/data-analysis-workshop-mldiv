@@ -1,9 +1,9 @@
-# Taller de Análisis de Datos #
+# Taller de Análisis de Datos  #
 
 Toda proyecto de ciencia de datos o inteligencia artificial present una etapa básica: el análisis de datos. Con el podemos obtener información que nos resultará útil en posteriores etapas del proyecto, como en el entrenamiento de modelos de Machine Learning y Deep Learning.
 
 En este taller, tomaremos el rol de un científico de datos de la Secretaría de Salud, quien, tras la alarmante aparación del virus Sars-COVID-2 (COVID-19),
-es encomendado con la tarea de diseñar una estrategia de prevención y contención de la pandemia, utilizando datos de infecciones, decesos y demás variables recolectados por todo lo ancho de la república mexicana.
+es encomendado con la tarea de diseñar una estrategia de prevención y contención de la pandemia, utilizando datos de infecciones, decesos y demás variables recolectados por todo lo ancho de la república mexicana 🇲🇽.
 
 El taller está impartido en en lenguaje de programación Python, y haremos uso extensivo de varias de sus librerías de análisis de datos.
 
