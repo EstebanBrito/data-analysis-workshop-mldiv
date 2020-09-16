@@ -2,3 +2,4 @@ env
 venv
 notebooks/.ipynb_checkpoints
 ClassGuide.txt
+datasets
