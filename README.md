@@ -41,6 +41,10 @@ El taller está impartido en en lenguaje de programación Python 🐍, y haremos
 
 ## ¿Cómo iniciar el curso? ##
 
+### Descárgate los datos ###
+
+Puedes descargar los archivos en este [enlace](https://datos.gob.mx/busca/dataset/informacion-referente-a-casos-covid-19-en-mexico)
+
 ### Instala Python ###
 
 Descarga Python de este [enlace](https://www.python.org/downloads/) si estás en Windows, asegurándo de seleccionar durante la instalción la opción de agregar Python al PATH. Para sistemas Linux, Python 3 ya viene instalado.
