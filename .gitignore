@@ -3,4 +3,5 @@ env
 venv
 imgs
 notebooks/.ipynb_checkpoints
+notebooks/Apuntes.ipynb
 ClassGuide.txt
